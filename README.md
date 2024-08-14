@@ -14,6 +14,7 @@ Please see "EXAMPLE USE CASES.pdf", as this is a very clear and easy way to see 
 to find the code , go to "P08 Text Generator" -> "src"
 
 All files have detailed in-line comments
+
 All methods have detailed method headers
 
 Please note that some of the programming files were created purely to meet my projects requirements in my course;  I am aware that there were easier ways to implement the Markov Model. Some of the classes were done to practice implementing some of java's built-in functions from scratch, and for my own learning experience. 
