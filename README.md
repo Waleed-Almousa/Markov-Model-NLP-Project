@@ -4,12 +4,12 @@
 
 In this project, I was tasked with implemented a stack and a queue ADT and programming them to work in the usual way that stacks and Queues do. Afterwords, I used these classes to implement a Markov model, which takes in a .txt file and outputs a unique spin on the contents of the file. The K-value can be adjusted, with a higher k-value essentially leading to the model 'copying' more from  the original text; i.e lower k values = more randomization. TextLength can also be adjusted to choose how long you would like the output text to be, in characters. 
 
-#EXAMPLE USE CASES
+# EXAMPLE USE CASES
 
 Please see "EXAMPLE USE CASES.pdf", as this is a very clear and easy way to see exactly what the model is capable of doing. 
 
 
-###REPOSITORY OVERVIEW
+### REPOSITORY OVERVIEW
 
 to find the code , go to "P08 Text Generator" -> "src"
 
