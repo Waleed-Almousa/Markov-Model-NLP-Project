@@ -25,7 +25,7 @@ MarkovModel.java:
 
 MarkovTextGenerator.java: 
 - the class used to generate text using the markov model
-- if you woul like to test this model out for yourselves, this is the file to use. Simply change the file path to your desired file name and adjust the K-value and textLength within the code
+- if you would like to test this model out for yourselves, this is the file to use. Simply change the file path to your desired file name and adjust the K-value and textLength within the code
 
 MarkovTester.java:
 - Tester class that ensures the model works correctly and passes edge-cases
