@@ -30,4 +30,4 @@ MarkovTextGenerator.java:
 MarkovTester.java:
 - Tester class that ensures the model works correctly and passes edge-cases
 
-The rest of the files are nothing interesting and were done for the purpous of my own learning, though they are nececary to download for my markov model to work. 
+The rest of the files were done purely for the purpous of my own learning, though they are nececary to download for my markov model to work. 
